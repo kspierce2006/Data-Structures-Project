@@ -109,3 +109,171 @@ Data Structures
 Final Project
 Data Structures
 12/01/2025
+Linux 101
+Server Administration
+09/02/2025
+Ubuntu Setup
+Server Administration
+09/12/2025
+addOneUser.sh script
+Server Administration
+09/16/2025
+SSH Keys
+Server Administration
+09/23/2025
+addUsers script
+Server Administration
+09/25/2025
+Docker 101
+Server Administration
+10/09/2025
+Final Project Server Initial Setup
+Server Administration
+10/31/2025
+Exploring Wordpress
+Server Administration
+11/14/2025
+Final Project
+Server Administration
+12/02/2025
+Lab 1
+Physics for Sci/Engin Lab
+09/14/2025
+Pre-Lab 1
+Physics for Sci/Engin Lab
+09/14/2025
+Lab 2
+Physics for Sci/Engin Lab
+09/21/2025
+Pre-Lab 2
+Physics for Sci/Engin Lab
+09/21/2025
+Lab 3
+Physics for Sci/Engin Lab
+09/28/2025
+Pre-Lab 3
+Physics for Sci/Engin Lab
+09/28/2025
+Lab 4
+Physics for Sci/Engin Lab
+10/05/2025
+Lab 5
+Physics for Sci/Engin Lab
+10/12/2025
+Pre-Lab 5
+Physics for Sci/Engin Lab
+10/12/2025
+Lab 6
+Physics for Sci/Engin Lab
+10/20/2025
+Pre-Lab 6
+Physics for Sci/Engin Lab
+10/20/2025
+Lab 7
+Physics for Sci/Engin Lab
+10/27/2025
+Pre-Lab 7
+Physics for Sci/Engin Lab
+10/27/2025
+Lab 8
+Physics for Sci/Engin Lab
+11/03/2025
+Pre-Lab 8
+Physics for Sci/Engin Lab
+11/03/2025
+Lab 9
+Physics for Sci/Engin Lab
+11/10/2025
+Lab 10
+Physics for Sci/Engin Lab
+11/17/2025
+Homework 1
+Physics for Sci/Engin
+09/14/2025
+Homework 2
+Physics for Sci/Engin
+09/14/2025
+Homework 3
+Physics for Sci/Engin
+09/21/2025
+Homework 4
+Physics for Sci/Engin
+09/28/2025
+Homework 5
+Physics for Sci/Engin
+10/05/2025
+Homework 6
+Physics for Sci/Engin
+10/12/2025
+Homework 7
+Physics for Sci/Engin
+10/20/2025
+Homework 8
+Physics for Sci/Engin
+11/02/2025
+LD01: First Steps
+Web Technologies 1
+08/28/2025
+HW01: Planning and Starting a Site
+Web Technologies 1
+09/01/2025
+LD02: Tables, and Inline CSS
+Web Technologies 1
+09/04/2025
+HW02: Inline CSS and Colors
+Web Technologies 1
+09/08/2025
+LD03: CSS Selectors
+Web Technologies 1
+09/11/2025
+HW03: CSS Selectors
+Web Technologies 1
+09/15/2025
+LD04: Layouts Using Flexbox
+Web Technologies 1
+09/18/2025
+HW04: Flexbox and Lists
+Web Technologies 1
+09/22/2025
+LD05: Intro to Forms and Javascript
+Web Technologies 1
+09/25/2025
+HW05: Intro to Forms and Javascript
+Web Technologies 1
+09/29/2025
+LD06: JS Regex's and the DOM
+Web Technologies 1
+10/02/2025
+HW06: JS Regex and DOM
+Web Technologies 1
+10/06/2025
+LD07: JS Events and Form Validation
+Web Technologies 1
+10/09/2025
+HW07: JS Form Validation
+Web Technologies 1
+10/13/2025
+LD08: Philip Fonts and Gimp
+Web Technologies 1
+10/16/2025
+HW08: Philip Design Implementation
+Web Technologies 1
+10/27/2025
+LD09: Intro to DOM Manipulation
+Web Technologies 1
+10/30/2025
+HW09: The Shopping List
+Web Technologies 1
+11/03/2025
+LD10: OOP and Copilot Intro
+Web Technologies 1
+11/06/2025
+HW10: OOP and the List App
+Web Technologies 1
+11/10/2025
+LD11: Using localStorage
+Web Technologies 1
+11/13/2025
+HW11: LocalStorage and the List App
+Web Technologies 1
+11/17/2025

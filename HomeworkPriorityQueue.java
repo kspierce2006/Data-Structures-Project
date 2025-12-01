@@ -158,7 +158,7 @@ public class HomeworkPriorityQueue {
 		hw.setClassroom(kb.nextLine());
 		System.out.print("Enter the date the homework is due (mm/dd/yyyy): ");
 		hw.setDueDate(kb.nextLine());
-
+		hw.setId(n);
 		homework[n] = hw;
         quickSort(homework, 0, n);
 		return n+1;
@@ -221,7 +221,7 @@ public class HomeworkPriorityQueue {
         System.out.println("------------------------------------------------------------------------------------------------");
 		for (int i=0; i<n; i++){
             if (homework[i] != null) {
-			    String lowerCaseNameList = homework[i].getName().toLowerCase();    //making the current title lower case
+			    String lowerCaseNameList = homework[i].getClassroom().toLowerCase();    //making the current title lower case
 			    if (lowerCaseNameList.contains(lowerCaseName)){
 				    System.out.println(homework[i]);
                 }
